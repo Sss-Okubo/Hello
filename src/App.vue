@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to COACHTECH4"/>
+  <HelloWorld msg="Welcome to COACHTECH3"/>
 </template>
 
 <script>
